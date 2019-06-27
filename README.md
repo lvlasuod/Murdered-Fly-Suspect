@@ -3,7 +3,7 @@
 A new Flutter application using flame plugin to make simple 2d game
 
 
-![Screenshot](/cs.jpg?raw=true "Murdered-Fly-Suspect")
+![Screenshot](/sc.jpg?raw=true "Murdered-Fly-Suspect")
 
 ## Getting Started
 
