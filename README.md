@@ -2,6 +2,9 @@
 
 A new Flutter application using flame plugin to make simple 2d game
 
+
+![Screenshot](/cs.jpg?raw=true "Murdered-Fly-Suspect")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
